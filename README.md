@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
 ## About Me
 
 I am a Full Stack Web Developer at WeJet Russia. I have a passion for building robust and dynamic web applications. My main stack includes:
@@ -40,20 +38,18 @@ Additionally, I have experience with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zbybko&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbybko&layout=compact&theme=radical)
 
 ## Projects
 
 ### Featured Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repositoryname&theme=radical)](https://github.com/yourusername/repositoryname)
+[![ReadMe Card]()]()
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](www.linkedin.com/in/zakhar-bybko-04986429b)
 
 ---
 
-⭐️ From [Zakhar](https://github.com/yourusername)
+⭐️ From [Zakhar](https://github.com/zbybko)
