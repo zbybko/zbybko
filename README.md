@@ -34,7 +34,7 @@ I am a Full Stack Web Developer at WeJet Russia. I have a passion for building r
 
 ### Commit Activity
 
-![GitHub Commits](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+![GitHub Commits](https://github-readme-activity-graph.cyclic.app/graph?username=zbybko&theme=radical)
 
 ## Let's Connect
 
