@@ -32,8 +32,6 @@ I am a Full Stack Web Developer at WeJet Russia. I have a passion for building r
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbybko&layout=compact&theme=radical)
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=zbybko&theme=radical)
-
 ## Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/zakhar-bybko-04986429b)
