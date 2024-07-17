@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a Full Stack Web Developer at WeJet Russia. I have a passion for building robust and dynamic web applications. My main stack includes:
-
+I am a Full Stack Web Developer at WeJet Russia. I have a passion for building robust and dynamic web applications.
 ## Skills
 
 ### Languages and Frameworks
