@@ -34,7 +34,7 @@ I am a Full Stack Web Developer at WeJet Russia. I have a passion for building r
 
 ### Commit Activity
 
-![GitHub Commits](https://activity-graph.herokuapp.com/graph?username=zbybko&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zbybko&theme=radical)
 
 ## Let's Connect
 
