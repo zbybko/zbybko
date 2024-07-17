@@ -6,16 +6,6 @@ Welcome to my GitHub profile!
 
 I am a Full Stack Web Developer at WeJet Russia. I have a passion for building robust and dynamic web applications. My main stack includes:
 
-- **Languages:** JavaScript, TypeScript, PHP, Nunjucks, MySQL, Sass
-- **Tools:** Gulp, Webpack
-- **Platforms:** 1C-Bitrix
-
-Additionally, I have experience with:
-
-- **C#**
-- **Vue.js**
-- **WordPress**
-
 ## Skills
 
 ### Languages and Frameworks
