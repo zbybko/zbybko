@@ -33,7 +33,7 @@ I am a Full Stack Web Developer at WeJet Russia. I have a passion for building r
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/zakhar-bybko-04986429b)
+- [LinkedIn](https://www.linkedin.com/in/zakhar-bybko-04986429b/)
 
 ---
 
