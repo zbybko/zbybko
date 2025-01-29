@@ -11,7 +11,7 @@
 {  
 
 * 👂 `My name is`: **Zakhar**,
-* 🥸 `Pronouns`: **She/Her**,
+* 🥸 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **21 years old**,
 * 🌱 `I’m currently learning`: **Vue.js**,
 * ❤️ `I love`: **Pizza capricciosa**,
