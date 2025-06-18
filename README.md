@@ -13,7 +13,7 @@
 * 👂 `My name is`: **Zakhar**,
 * 🥸 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **22 years old**,
-* 🌱 `I’m currently learning`: **Golang**,
+* 🌱 `I’m currently learning`: **Vue.js**,
 * ❤️ `I love`: **Pizza capricciosa**,
 * 💻 `Favorite lang`: **JavaScript & PHP**  
 
